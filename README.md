@@ -3,7 +3,8 @@
 ## Overview
 B2B businesses use recommender systems to recommend products to their customers. This project seeks to build a recommender system that can recommend products to customers based on their history and/or based on similar users.
 
-### Project Structure:
+# amazon
+
 * [tasks/](./amazon/tasks)
   * [analytics/](./amazon/tasks/analytics)
   * [etl_system/](./amazon/tasks/etl_system)
