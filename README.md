@@ -1,4 +1,4 @@
-# project : amazon recommender system
+# project : amazon products recommender engine
 
 ## Overview
 B2B businesses use recommender systemst to recommend products to their customers. This project seeks to build a recommender system that can recommend products customers based on their history and/or based on similar users.
