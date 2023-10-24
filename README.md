@@ -1,8 +1,4 @@
 # project : Amazon Products Recommender Engine
-
-## Overview
-B2B businesses use recommender systems to recommend products to their customers. This project seeks to build a recommender system that can recommend products to customers based on their history and/or based on similar users.
-
 # amazon
 
 * [tasks/](./amazon/tasks)
@@ -16,6 +12,9 @@ B2B businesses use recommender systems to recommend products to their customers.
 * [LICENSE](./amazon/LICENSE)
 * [README.md](./amazon/README.md)
 
+
+## Overview
+B2B businesses use recommender systems to recommend products to their customers. This project seeks to build a recommender system that can recommend products to customers based on their history and/or based on similar users.
 
 ### 1. Project Objective:
 Build recommender systems of collaborative filtering, content-based filtering and hybrid filtering for Amazon products.
