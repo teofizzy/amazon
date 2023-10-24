@@ -1,17 +1,13 @@
 # project : Amazon Products Recommender Engine
-# amazon
+## project structure:
 
-* [tasks/](./amazon/tasks)
-  * [analytics/](./amazon/tasks/analytics)
-  * [etl_system/](./amazon/tasks/etl_system)
-    * [.ipynb_checkpoints/](./amazon/tasks/etl_system/.ipynb_checkpoints)
-    * [.jovianrc](./amazon/tasks/etl_system/.jovianrc)
-    * [scrape_amazon.ipynb](./amazon/tasks/etl_system/scrape_amazon.ipynb)
-  * [ml/](./amazon/tasks/ml)
-* [.gitignore](./amazon/.gitignore)
-* [LICENSE](./amazon/LICENSE)
-* [README.md](./amazon/README.md)
-
+* [analytics/](./tasks/analytics)
+* [etl_system/](./tasks/etl_system)
+  * [.ipynb_checkpoints/](./tasks/etl_system/.ipynb_checkpoints)
+    * [scrape_amazon-checkpoint.ipynb](./tasks/etl_system/.ipynb_checkpoints/scrape_amazon-checkpoint.ipynb)
+  * [.jovianrc](./tasks/etl_system/.jovianrc)
+  * [scrape_amazon.ipynb](./tasks/etl_system/scrape_amazon.ipynb)
+* [ml/](./tasks/ml)
 
 ## Overview
 B2B businesses use recommender systems to recommend products to their customers. This project seeks to build a recommender system that can recommend products to customers based on their history and/or based on similar users.
