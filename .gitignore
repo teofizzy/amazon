@@ -162,3 +162,6 @@ cython_debug/
 # virtual env
 amazon_env
 
+# data
+data
+

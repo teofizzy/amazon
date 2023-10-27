@@ -3,10 +3,6 @@
 * [tasks](/tasks)
   * [analytics/](./tasks/analytics)
   * [etl_system/](./tasks/etl_system)
-    * [.ipynb_checkpoints/](./tasks/etl_system/.ipynb_checkpoints)
-      * [scrape_amazon-checkpoint.ipynb](./tasks/etl_system/.ipynb_checkpoints/scrape_amazon-checkpoint.ipynb)
-    * [.jovianrc](./tasks/etl_system/.jovianrc)
-    * [scrape_amazon.ipynb](./tasks/etl_system/scrape_amazon.ipynb)
   * [ml/](./tasks/ml)
 
 ## Overview
@@ -16,7 +12,7 @@ B2B businesses use recommender systems to recommend products to their customers.
 Build recommender systems of collaborative filtering, content-based filtering and hybrid filtering for Amazon products.
 
 ### 2. Data Collection and Ingestion:
-Data for this project will be collected using web scraping using BeautifulSoup and Selenium. This data will include product name, price, mean rating and the number of ratings for each product.
+Data for this project will be collected using web scraping using BeautifulSoup and Selenium which can be used to create an automated headless browser. This data will include product name, price, mean rating and the number of ratings for each product from the departments that the data shall be collected.
 We will ensure a steady flow of data into our pipeline.
 
 ### 3. ETL System
