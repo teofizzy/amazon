@@ -1,7 +1,6 @@
 # project : Amazon Products Recommender Engine
 ## project structure:
 * [tasks](/tasks)
-  * [analytics/](./tasks/analytics)
   * [etl_system/](./tasks/etl_system)
   * [ml/](./tasks/ml)
 
