@@ -7,6 +7,8 @@
 ## Overview
 B2B businesses use recommender systems to recommend products to their customers. This project seeks to build a recommender system that can recommend products to customers based on their history and/or based on similar users.
 
+![image](https://www.dynamicyield.com/wp-content/uploads/2020/01/5-Recommending-products-on-category-pages--1024x684.jpg)
+
 ### 1. Project Objective:
 Build recommender systems of collaborative filtering, content-based filtering and hybrid filtering for Amazon products.
 
